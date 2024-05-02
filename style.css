@@ -1,0 +1,41 @@
+/* .blue {
+    color: blue;
+}
+.red {
+    color: red;
+} */
+
+/* .container {
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: repeat(4, 100px);
+    gap: 1px; /* Norint pridėti tarpus tarp div'ų 
+}
+.box {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+} */
+
+button {
+    display: block;
+    margin: 10px auto; /* Centruoti horizontaliai */
+    padding: 10px 20px; /* Apvadai aplink teksto turinį */
+    font-size: 16px;
+    background-color: #04468d; /* Spalva */
+    color: #ffffff; /* Teksto spalva */
+    border: none;
+    border-radius: 5px; /* Skrieti apvalius kraštus */
+    cursor: pointer;
+}
+
+#paveiksliukai {
+    text-align: center; /* Centruoti paveiksliukų konteinerį */
+    margin-top: 50px; /* Atstumas nuo viršaus */
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
